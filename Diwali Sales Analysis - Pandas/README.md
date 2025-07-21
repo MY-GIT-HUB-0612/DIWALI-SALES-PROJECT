@@ -27,5 +27,5 @@ The project includes various visualizations such as:
 - Customer purchasing patterns
 
 ## Dataset
-The dataset contains transaction details, customer demographics, and product categories. (Add details on data source if applicable.)
+The dataset contains transaction details, customer demographics, and product categories.
 
