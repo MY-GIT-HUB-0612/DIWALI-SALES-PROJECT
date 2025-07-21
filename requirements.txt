@@ -9,7 +9,7 @@ et_xmlfile==2.0.0
 executing==2.2.0
 fonttools==4.59.0
 ipykernel==6.30.0
-ipython==9.4.0
+ipython==8.24.0
 ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 jupyter_client==8.6.3
